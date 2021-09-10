@@ -24,4 +24,4 @@ YAML         30 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[^1]: [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+[^1]: https://github.com/jstrieb/github-stats
