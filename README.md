@@ -6,7 +6,7 @@
 - 💻 Jobtitle: Junior Software Developer
 - 🏢 Workplace: [SoftwareOne AG](https://www.softwareone.com/)
 - 🎾 Hobbies: Coding, watching Movies and playing tennis.
-- 📫 How to reach me: lynn-jung.ch
+- 📫 How to reach me: [lynn-jung.ch](https://lynn-jung.ch/)
 
 #### WakaTime stats
 <!--START_SECTION:waka-->
