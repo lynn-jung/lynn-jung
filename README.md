@@ -4,7 +4,7 @@
 - 🔞 Age: 22
 - 🌍 Location: Switzerland
 - 💻 Jobtitle: Junior Software Developer
-- 🏢 Workplace: SoftwareOne Ag
+- 🏢 Workplace: [SoftwareOne AG](https://www.softwareone.com/)
 - 🎾 Hobbies: Coding, watching Movies and playing tennis.
 - 📫 How to reach me: lynn-jung.ch
 
