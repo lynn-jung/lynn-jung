@@ -1,19 +1,12 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my github page
 
-<!--
-**lynn-jung/lynn-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑 Name: Lynn Jung
+- 🔞 Age: 22
+- 🌍 Location: Switzerland
+- 💻 Jobtitle: Junior Software Developer
+- 🏢 Workplace: SoftwareOne Ag
+- 🎾 Hobbies: Coding, watching Movies and playing tennis.
+- 📫 How to reach me: lynn-jung.ch
 
 #### WakaTime stats
 <!--START_SECTION:waka-->
