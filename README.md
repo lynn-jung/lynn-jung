@@ -9,8 +9,8 @@
 - 📫 How to reach me: [lynn-jung.ch](https://lynn-jung.ch/)
 
 
-#### Github stats
-![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)[^1]  ![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)[^1]
+#### Github stats [^1]
+![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)
 
 
 #### WakaTime stats
