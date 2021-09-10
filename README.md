@@ -8,6 +8,14 @@
 - 🎾 Hobbies: Coding, watching Movies and playing tennis.
 - 📫 How to reach me: [lynn-jung.ch](https://lynn-jung.ch/)
 
+
+####Overview
+![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)
+
+####Languages
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+
+
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
