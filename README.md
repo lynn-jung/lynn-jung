@@ -9,7 +9,8 @@
 - 📫 How to reach me: [lynn-jung.ch](https://lynn-jung.ch/)
 
 
-![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)
+#### Github stats
+![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)[^1]  ![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)[^1]
 
 
 #### WakaTime stats
@@ -22,3 +23,5 @@ JSON         45 mins         ███▒░░░░░░░░░░░░░
 YAML         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 <!--END_SECTION:waka-->
+
+[^1]: [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
