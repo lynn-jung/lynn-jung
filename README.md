@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### WakaTime stats
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+#### WakaTime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
