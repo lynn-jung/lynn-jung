@@ -16,11 +16,11 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   4 hrs 48 mins   █████████▒░░░░░░░░░░░░░░░   36.82 % 
-HTML         2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Vue.js       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-YAML         1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+TypeScript   8 hrs 46 mins   ███████████░░░░░░░░░░░░░░   44.38 % 
+HTML         5 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
+JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+YAML         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JavaScript   1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 <!--END_SECTION:waka-->
 
