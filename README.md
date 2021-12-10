@@ -16,11 +16,8 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript      2 hrs 29 mins   █████████████████░░░░░░░░   67.78 % 
-Apache Config   29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-C#              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Other           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Vue.js          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript   1 hr 19 mins    ████████████████████████▓   98.32 % 
+Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
 
