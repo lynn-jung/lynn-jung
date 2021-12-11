@@ -16,8 +16,8 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 19 mins    ████████████████████████▓   98.32 % 
-Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript   1 hr 27 mins    █████████████████████░░░░   83.47 % 
+Vue.js       17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 ```
 <!--END_SECTION:waka-->
 
