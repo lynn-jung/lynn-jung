@@ -16,7 +16,8 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js   4 hrs 24 mins   ███████████████████████░░   92.04 % 
+JSON     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 ```
 <!--END_SECTION:waka-->
 
