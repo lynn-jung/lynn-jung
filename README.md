@@ -16,6 +16,8 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
+Total: 4 hrs 46 mins
+
 Vue.js   4 hrs 24 mins   ███████████████████████░░   92.04 % 
 JSON     22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 ```
