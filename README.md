@@ -16,10 +16,10 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-PowerShell   7 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.26 % 
-Vue.js       5 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.65 % 
-JSON         1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+PowerShell   10 hrs 45 mins  ██████████████▓░░░░░░░░░░   58.31 % 
+Vue.js       5 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 % 
+JSON         2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
