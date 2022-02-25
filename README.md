@@ -16,8 +16,8 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 ```text
-PowerShell   12 hrs 9 mins   ██████████████████████▒░░   89.70 % 
-JSON         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+PowerShell   8 hrs 44 mins   ███████████████████████░░   91.89 % 
+JSON         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 <!--END_SECTION:waka-->
 
