@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   5 hrs 15 mins   ███████████████████████▓░   94.99 %
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
