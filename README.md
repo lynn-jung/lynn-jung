@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     20 mins         ████████████████░░░░░░░░░   63.81 %
-TypeScript   10 mins         ████████░░░░░░░░░░░░░░░░░   32.35 %
-C#           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Batchfile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
