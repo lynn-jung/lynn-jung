@@ -17,7 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   2 hrs 22 mins   █████████████████▓░░░░░░░   70.57 %
+HTML         58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
