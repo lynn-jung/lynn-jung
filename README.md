@@ -10,7 +10,7 @@
 
 
 #### Github stats [^1]
-![](https://github.com/lynn-jung/github-stats/blob/master/generated/overview.svg)  ![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)
 
 
 #### WakaTime stats
