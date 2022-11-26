@@ -8,11 +8,6 @@
 - 💪 Hobbies: Coding, watching Movies and going to the gym.
 - 📫 How to reach me: [lynn-jung.com](https://lynn-jung.com/)
 
-
-#### Github stats [^1]
-![](https://github.com/lynn-jung/github-stats/blob/master/generated/languages.svg)
-
-
 #### WakaTime stats
 <!--START_SECTION:waka-->
 
