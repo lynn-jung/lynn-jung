@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   20 mins         ████████████████████▓░░░░   82.47 %
-JSON         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
