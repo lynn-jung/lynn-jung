@@ -3,7 +3,7 @@
 - 🧑 Name: Lynn Jung
 - 🔞 Age: 24
 - 🌍 Location: Switzerland
-- 💻 Jobtitle: Junior Software Developer
+- 💻 Jobtitle: Software Developer
 - 🏢 Workplace: [SoftwareOne AG](https://www.softwareone.com/)
 - 💪 Hobbies: Coding, watching Movies and going to the gym.
 - 📫 How to reach me: [lynn-jung.com](https://lynn-jung.com/)
