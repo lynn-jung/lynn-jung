@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my github page
 
 - 🧑 Name: Lynn Jung
-- 🔞 Age: 23
+- 🔞 Age: 24
 - 🌍 Location: Switzerland
 - 💻 Jobtitle: Junior Software Developer
 - 🏢 Workplace: [SoftwareOne AG](https://www.softwareone.com/)
