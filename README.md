@@ -12,12 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       2 hrs 53 mins   ███████████████████░░░░░░   75.80 %
-JavaScript   37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-SCSS         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
