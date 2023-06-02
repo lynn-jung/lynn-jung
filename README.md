@@ -11,7 +11,7 @@
 #### WakaTime stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   1 hr 14 mins    ████████████▒░░░░░░░░░░░░   49.07 %
 Vue.js       1 hr 12 mins    ████████████░░░░░░░░░░░░░   47.49 %
 Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
